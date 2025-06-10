@@ -31,6 +31,7 @@
 body{
     background-color: #30352fb7;
     font-family: var(--fonte-padrao);
+    
 }
 a.externo::after{
     content: '\1F517';
@@ -54,7 +55,7 @@ header > h1 {
 header >p{
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    color: white;
+    color: rgb(241, 239, 239);
     font-size: 1.2em;
     max-width: 600px;
     padding-right: 10px;
@@ -85,7 +86,7 @@ main{
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(170, 45, 45);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.363);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
